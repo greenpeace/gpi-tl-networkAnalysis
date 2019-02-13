@@ -105,6 +105,7 @@ venv.bak/
 
 # config files
 feed.json
+twitterAPI.json
 
 # data
 *.csv
