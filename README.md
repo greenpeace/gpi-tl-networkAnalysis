@@ -1,2 +1,2 @@
 # gpi-tl-networkAnalysis
-A proof-of-concept to use RSS data from TalkWalker for a twitter-follower network analysis
+A proof-of-concept to use social media data (e.g. twitter) to create network graphs.
