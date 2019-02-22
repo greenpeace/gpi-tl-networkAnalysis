@@ -110,4 +110,4 @@ twitterAPI.json
 # data
 *.csv
 *.svg
-*.png
+# *.png
