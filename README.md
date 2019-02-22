@@ -1,5 +1,12 @@
 # gpi-tl-networkAnalysis
+![techlab opening slide](_pictures/techlab006.png "opening slide")
+
+
 A proof-of-concept to use social media data (e.g. twitter) to create network graphs.
+
+## Purpose
+This collection of jupyter notebooks summarize and display the capabilities of jupyter notebooks as tools for (data) science in whatever way. In this special example we will look more closely at how to even create interactive graphs with `plotly` to show the interaction of twitter users in regard to Greenpeace activity. Sneak peak: 
+![sneaky peaky no interacty](_pictures/plotly_graph.png "network graph")
 
 ## Setup of jupyter
 The simplest way of setting up jupyter and a functioning Python installation on __Windows and Mac__ is `Anaconda`: https://www.anaconda.com/distribution/
