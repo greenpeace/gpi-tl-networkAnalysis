@@ -8,6 +8,12 @@ A proof-of-concept to use social media data (e.g. twitter) to create network gra
 This collection of jupyter notebooks summarize and display the capabilities of jupyter notebooks as tools for (data) science in whatever way. In this special example we will look more closely at how to even create interactive graphs with `plotly` to show the interaction of twitter users in regard to Greenpeace activity. Sneak peak: 
 ![sneaky peaky no interacty](_pictures/plotly_graph.png "network graph")
 
+### Files 
+- `jupyter.ipynb` summarizes very shortly what jupyter notebooks do and don't do
+- `networkAnalysis.ipynb` is the notebook to create the graph shown above (among other things)
+- `networkAnalysis.html` is the above notebook exported as .html file, can be downloaded and viewed in your browser (needs javascript), is still interactive!
+- `networkAnalysis-Google-Cloud-DataLab.ipynb` is a version of the above notebook that directly works in Google DataLab; some adjustments needed to be made to make in run on `Python 3.5`, and it contains two lines to update packages in DataLab, since the preinstalled versions are outdated.
+
 ## Setup of jupyter
 The simplest way of setting up jupyter and a functioning Python installation on __Windows and Mac__ is `Anaconda`: https://www.anaconda.com/distribution/
 
